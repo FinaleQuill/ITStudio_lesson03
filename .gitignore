@@ -1,0 +1,16 @@
+.env
+.env.*
+.mylogin.cnf
+.my.cnf
+.mysql_history
+*.log
+data/
+mysql-data/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+*.mp4
+*.mkv
